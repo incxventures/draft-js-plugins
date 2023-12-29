@@ -65,6 +65,7 @@ const LinkButton = ({
       hasLinkSelected={hasLinkSelected}
       onAddLinkClick={onAddLinkClick}
       theme={theme}
+      store={store}
     />
   );
 };
